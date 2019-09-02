@@ -1,10 +1,10 @@
 # BlackJack
 Halve week opdracht Young Colfield TEP 14
 
-#Doel
+#### Doel
 Het doel van het spel is om de bank (dealer) te verslaan. Hierbij moet men proberen dichter bij de 21 punten te komen dan de bank. Als de speler boven de 21 punten uitkomt heeft hij verloren, ongeacht wat de bank heeft.
 
-# Project Java
+#### Project Java
 Het BlackJack project is verdeeld in meerdere onderdelen. Ik heb geprobeerd een programma te schrijven die bestaat uit de volgende componenten:
 
 
