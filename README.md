@@ -17,3 +17,13 @@ Het BlackJack project is verdeeld in meerdere onderdelen. Ik heb geprobeerd een 
 5) De ronde zal eindigen bij het overtreffen van 21 of als de dealer bepaalt geen kaart meer te pakken
 6) Een volgende ronde zal starten met de overgebleven kaarten uit het deck. 
 
+#### Sheet
+deck == arraylist of string items
+
+shuffle ==  java.util.Random
+
+score == private static int counter 
+
+user input == scanner
+
+charat index to string
