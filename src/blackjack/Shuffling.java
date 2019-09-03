@@ -1,4 +1,4 @@
-package com.company;
+package blackjack;
 
 public class Shuffling {
 }
